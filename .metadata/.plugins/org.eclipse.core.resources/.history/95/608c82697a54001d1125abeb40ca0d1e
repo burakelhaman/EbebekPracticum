@@ -1,0 +1,5 @@
+package employeeCalc.business;
+
+public class Calculate {
+
+}
